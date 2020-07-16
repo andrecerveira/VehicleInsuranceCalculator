@@ -1,0 +1,13 @@
+﻿@{
+    ViewBag.Title = "Search Insurance";
+}
+
+<h2>Search Insurance</h2>
+
+<form method="post" action="/Insurance/SearchInsurance">
+    Insurance ID:
+    <input type="text" data-val="true"
+           data-val-required="The Insurance ID field is required."
+           id="InsuranceId" name="InsuranceId" value="" /> <br>
+    <button type="submit">Search</button>
+</form>

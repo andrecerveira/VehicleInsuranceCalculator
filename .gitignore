@@ -1,0 +1,16 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/packages
+/VehicleInsuranceCalculator.Application/obj/Debug
+/VehicleInsuranceCalculator.Application/bin/Debug
+/VehicleInsuranceCalculator.MVC.Tests/obj/Debug
+/VehicleInsuranceCalculator.MVC.Tests/bin/Debug
+/VehicleInsuranceCalculator.MVC/obj/Debug
+/VehicleInsuranceCalculator.MVC/bin
+/VehicleInsuranceCalculator.Infra.Data/obj/Debug
+/VehicleInsuranceCalculator.Infra.Data/bin/Debug
+/VehicleInsuranceCalculator.Domain/obj/Debug
+/VehicleInsuranceCalculator.Domain/bin/Debug
+/.vs
